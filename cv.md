@@ -14,15 +14,8 @@ I have never worked in the field of information technology, but I have always be
 Basics of languages: C, C++, C#. The Universal Windows Platform, which also uses the XML language. ADO.NET and SQL. ASP.NET where HTML and CSS were also studied.
 
 ## Code example:
+Maybe not very smart, but encryption was invented by me personally for my program. I implemented it so that during authorization it was possible to save the password to a file, but after opening this file locally, instead of the password there was an encrypted text of characters. Later I decided that all the text in the program and in its chat should be encrypted before writing to the database so that the data can be read only through the program.
 ```
-
-    // Maybe not very smart, but encryption was invented by me personally for my program
-
-    //I implemented it so that during authorization it was possible to save the password to a file, but after opening this 
-    file locally, instead of the password there was an encrypted text of characters
-
-    // later I decided that all the text in the program and in its chat should be encrypted before writing to the database
-    so that the data can be read only through the program
 
     int[] key = { 2, 4, 0, 7, 8, 5 }; // I use my date of birth as a key, but any other combinations of any size can be used
 
