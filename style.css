@@ -12,9 +12,9 @@ header {
     justify-content: center;
 }
 
-header span {
-   margin: 0px 200px;
-   font-size: large;
+header a {
+   margin: 0px 50px;
+   color:#ffffff;
 }
 
 .container {
@@ -22,6 +22,7 @@ header span {
     flex-direction: column;
     margin: 100px 200px;
     text-align: center;
+    color: #5b2210;
 }
 
 .element {
