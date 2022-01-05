@@ -17,6 +17,18 @@ header a {
    color:#ffffff;
 }
 
+a {
+    color: #5b2210;
+    text-decoration: none;
+}
+
+code {
+    display:flex;
+    align-items: center;
+    justify-content: left;
+    margin-left:25%;
+}
+
 .container {
     display: flex;
     flex-direction: column;
